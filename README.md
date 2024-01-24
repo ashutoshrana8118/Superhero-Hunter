@@ -22,10 +22,10 @@ You can view detailed information about a particular character. This includes th
 - **IDE:** Visual Studio Code
 
 ## Website Link
-You can access the Superhero Hunter App by visiting [this link].
+You can access the Superhero Hunter App by visiting (https://ashutoshrana8118.github.io/Superhero-Hunter/).
 
 ## GitHub Repository
-You can find the source code for this app on [GitHub]().
+You can find the source code for this app on [GitHub](https://github.com/ashutoshrana8118/Superhero-Hunter).
 
 ## Contact Information
 Feel free to get in touch with the developer for any questions or feedback:
